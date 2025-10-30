@@ -36,3 +36,13 @@ Néhány német, svájci, illetve angol cég akik modelleket gyártanak, vagy ha
 - Zimmermann (Németország): http://dampfbahn-zimmermann.de/produkte/lokomotiven/
 - Balson (Svájc): https://balson.ch/wordpress/
 - SOB (Svájc): https://www.sob.ch/fileadmin/images/pdf/dienstleistungen/gartenbahn/Katalog-Gartenbahn.pdf
+
+### Szabvány méretek és méret táblázat
+
+A pálya és a kerék méretezéshez az alábbi [rajzot](https://github.com/nygma2004/parkvasut/blob/main/Meret%20tablazat.pdf) és [táblázatot használjuk](https://github.com/nygma2004/parkvasut/blob/main/Szabvany%20meretek.pdf)
+
+A rajzon feltüntetett méretek:
+- A: tősín és a csúcsszín, vagy a tősín és a terelősín közötti távolság
+- B: nyomtávolság
+- D-L: kerék és a nyomkarima geometriája, a J egy minimális érték
+- M: a kerék belső síkja közötti távolság

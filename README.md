@@ -46,3 +46,5 @@ A rajzon feltüntetett méretek:
 - B: nyomtávolság
 - D-L: kerék és a nyomkarima geometriája, a J egy minimális érték
 - M: a kerék belső síkja közötti távolság
+
+A táblázatból én az összes értéket a "Standard Gauge", "Metric" oszlopából használom.

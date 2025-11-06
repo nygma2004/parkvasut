@@ -48,3 +48,11 @@ A rajzon feltüntetett méretek:
 - M: a kerék belső síkja közötti távolság
 
 A táblázatból én az összes értéket a "Standard Gauge", "Metric" oszlopából használom.
+
+### Alkatrészek
+
+- 24V 350W-os motor a [Vevortól](https://eur.vevor.com/brushless-dc-motor-c_11227/350w-electric-powerful-dc-motor-24v-3000rpm-motor-for-e-bike-dirt-bike-diy-p_010687835588)
+- [Kerék rajz](https://github.com/nygma2004/parkvasut/blob/main/Kerek%20v3.pdf) és a [Mutifor Kft](http://http://www.mutifor.hu/) ahol rendelni lehet CNC esztergálást
+- Vezérlők: [Itthon rendelhető PWM vezérlő](https://www.elektrobot.hu/termek.php?filename=2181.html&i=2181), [Amerikai rádiós távirányíthatós](https://www.dimensionengineering.com/products/sabertooth2x32), [Angol 4QD](https://www.4qd.co.uk/product/dno/)
+- Az épülő kis mozdony [vázának rajza](https://github.com/nygma2004/parkvasut/blob/main/Kis%20Mozdony%20vaz.pdf)
+- UCT csapágyházzal készített kocsi [vázának rajza](https://github.com/nygma2004/parkvasut/blob/main/Kocsi%20UCT204.pdf) és a CNC vágott alkatrészek [vázának rajza](https://github.com/nygma2004/parkvasut/blob/main/Kocsi%20alkatreszek.pdf)
